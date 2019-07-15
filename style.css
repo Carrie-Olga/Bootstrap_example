@@ -38,10 +38,19 @@
 
 .image {
   max-height: 25rem;
+  border-radius: 40px;
 }
 
 .navbar-dark .navbar-toggler {
   outline: none;
+}
+
+.btn {
+  outline: none;
+}
+
+.mb-4 {
+  min-height: 360px;
 }
 
 footer {
